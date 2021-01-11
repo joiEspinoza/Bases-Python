@@ -60,4 +60,3 @@ print( arrayColors.count( "red" ) )
 arrayColors.clear()
 print( arrayColors )
 # vacia el array
-
